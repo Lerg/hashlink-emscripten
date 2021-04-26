@@ -1,0 +1,2 @@
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emar qc ../../bin/libopenal_h.a CMakeFiles/openal.hdll.dir/openal.c.o
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emranlib ../../bin/libopenal_h.a

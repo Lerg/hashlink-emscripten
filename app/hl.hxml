@@ -1,0 +1,7 @@
+-cp src
+-lib heaps
+-lib hlsdl
+-main Main
+-dce full
+-D windowSize=640x480
+-hl out/main.c
