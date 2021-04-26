@@ -1,0 +1,2 @@
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emar qc ../../bin/libsqlite_h.a CMakeFiles/sqlite.hdll.dir/sqlite.c.o CMakeFiles/sqlite.hdll.dir/__/__/include/sqlite/src/sqlite3.c.o
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emranlib ../../bin/libsqlite_h.a

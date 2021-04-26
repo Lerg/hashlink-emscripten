@@ -1,0 +1,2 @@
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emar qc ../../bin/libfmt_h.a CMakeFiles/fmt.hdll.dir/fmt.c.o CMakeFiles/fmt.hdll.dir/sha1.c.o CMakeFiles/fmt.hdll.dir/dxt.c.o CMakeFiles/fmt.hdll.dir/mikkt.c.o CMakeFiles/fmt.hdll.dir/__/__/include/mikktspace/mikktspace.c.o
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emranlib ../../bin/libfmt_h.a

@@ -1,0 +1,2 @@
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emar qc ../../bin/libsdl_h.a CMakeFiles/sdl.hdll.dir/sdl.c.o CMakeFiles/sdl.hdll.dir/gl.c.o
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emranlib ../../bin/libsdl_h.a

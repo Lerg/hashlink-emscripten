@@ -1,0 +1,2 @@
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emar qc ../../bin/uv.hdll CMakeFiles/uv.hdll.dir/uv.c.o
+/Users/lerg/ext/heaps/emsdk/upstream/emscripten/emranlib ../../bin/uv.hdll
